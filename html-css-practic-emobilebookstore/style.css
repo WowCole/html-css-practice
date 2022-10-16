@@ -1,0 +1,11 @@
+@import "./header.css";
+@import "./book-of-the-day.css";
+@import "./top-adventures.css";
+@import "./popular-authors.css";
+* {
+  box-sizing: border-box;
+}
+
+.main {
+  padding:0px 20px;
+}

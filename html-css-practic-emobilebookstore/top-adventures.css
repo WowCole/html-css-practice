@@ -1,0 +1,32 @@
+.top-adventures-title{
+  padding:30px 0px;
+  font-size:30px;
+  font-weight:600;
+}
+.books{
+  width:300vw;
+  display:flex;
+}
+.books-book{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  
+  margin-right:30px;
+}
+.books-cover{
+  width:100px;
+  height:150px;
+  background-color:teal;
+  border-radius:5px;
+}
+.rating{
+  margin:20px 0px;
+  font-size:13px;
+  color:rgba(0,0,0,0.1);
+}
+
+.rating i:not(:last-child){
+  color:#FBCE32;
+}
